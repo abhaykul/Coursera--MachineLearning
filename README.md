@@ -1,2 +1,3 @@
-# Coursera--MachineLearning
-Programming Assignments
+# Coursera: Machine Learning
+
+Programming Assignments from Intro. to Machine Learning 
